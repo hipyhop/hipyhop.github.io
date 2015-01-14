@@ -1,0 +1,13 @@
+# Site settings
+title: Title goes here
+email: tomfluff@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    I recently read an article recommending that engineers should write more,
+    so here is my attempt at that.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tomluff.me" # the base hostname & protocol for your site
+twitter_username: hipyhop
+github_username:  hipyhop
+
+# Build settings
+markdown: kramdown
